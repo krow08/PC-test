@@ -18,7 +18,7 @@
       "type": "number",
       "required": true
     },
-    "telefono": {
+    "celular": {
       "type": "number",
       "required": true
     },
