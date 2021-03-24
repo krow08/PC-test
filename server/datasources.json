@@ -1,10 +1,7 @@
 {
-  "db": {
-    "name": "db",
-    "connector": "memory"
-  },
   "pc-test": {
     "host": "us-cdbr-east-03.cleardb.com",
+    "url": "",
     "database": "heroku_82fcec294fa2790",
     "password": "8162c5fc",
     "name": "pc-test",
@@ -12,3 +9,4 @@
     "connector": "mysql"
   }
 }
+
