@@ -38,9 +38,5 @@
   "usuarios": {
     "dataSource": "pc-test",
     "public": true
-  },
-  "userlogin": {
-    "dataSource": "pc-test",
-    "public": true
   }
 }
